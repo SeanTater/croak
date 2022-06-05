@@ -1,3 +1,6 @@
 *.ipynb
 *.mp3
 *.ogg
+*.opus
+*.pyc
+__pycache__/
